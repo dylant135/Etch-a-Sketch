@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+}
+
+#container {
+    display: grid;
+    gap: 0px;
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.gridBox {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+}
+
+#refresh {
+    font-size: 25px;
+}
